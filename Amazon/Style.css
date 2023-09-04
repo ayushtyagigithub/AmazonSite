@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Amazonlogo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+    background-image:url("amazon_logo.png");
+    background-size: cover;
+}
+.Addresslogo{
+    height: 50px;
+    width: 100px;
+}
+.point{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+}
+#one{
+    font-size: 12px;
+    color: gray;
+}
+#two{
+    font-size: 15px;
+    color: white;
+}
+#three{
+    padding-top: 13px;
+    
+}
+#four{
+    background-color: orange;
+    width: 32.2px;
+    height: 27px;
+    
+    border: 1px solid orange;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.search{
+    height: 30px;
+    display: flex;
+    
+}
+.five{
+    width:300px;
+}
+.eight{
+    font-size: 15px; 
+    color:white;
+    background-color: black;
+    text-decoration: none;
+}
+.nine{
+    
+    font-size: 14px;
+    color:white;
+    
+}
+.last{
+    display: flex;
+}
+#yo{
+    font-size: 40px;
+}
+#yes{
+    display: flex;
+    align-items: flex-end;
+}
+.panel{
+    color: white;
+    height: 45px;
+    width: 1536.4px;
+    background-color:#222f3d;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.option p{
+    display: inline;
+    margin-left: 10px;
+}
+.option{
+    width: 90%;
+}
+.all{
+    font-size: 20px;
+    padding-bottom: 8px;
+    display: flex;
+}
+#hun{
+    font-size: 25px;
+}
+.hero{
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 380px;
+}
+.msg{
+    height: 50px;
+    width: 80%;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.hero{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.shop{
+    height: 400px;
+    background-color:#e2e7e6;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.box{
+    border: 1px solid black;
+    height: 75%;
+    width: 23%; 
+    background-color: white;
+}
+.same{
+    height: 60%;
+    width: 48%;
+    
+}
+.a{
+    background-image: url("box4_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.b{
+    background-image: url("box3_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.c{
+    background-image: url("box2_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.d{
+    background-image: url("box1_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.e{
+    background-image: url("box8_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.f{
+    background-image: url("box7_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.g{
+    background-image: url("box6_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.h{
+    background-image: url("box5_image.jpg");
+    background-size: cover;
+    margin-top: 52px;
+    margin-left: 90px;
+}
+.no{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.l1{
+    height: 40px;
+    background-color: #37475a;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
